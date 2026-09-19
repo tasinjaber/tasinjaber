@@ -31,6 +31,6 @@ Building production-style web applications with React, TypeScript, Node.js and m
 
 ## Portfolio
 
-14 production-style portfolio projects covering frontend systems, full-stack applications, business software, SaaS, security, integrations and event-driven architecture.
+Explore my production-style portfolio projects which is covering frontend systems, full-stack applications, business software, SaaS, security, integrations and event-driven architecture.
 
 [View all projects →](https://github.com/tasinjaber?tab=repositories)
